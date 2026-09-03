@@ -47,4 +47,4 @@ Supervisor: Prof. Lin Ma
 {% else %}
 No publications listed yet.
 {% endif %}
-* Currently signed in to 43 different slack teams
+
