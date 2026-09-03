@@ -14,15 +14,3 @@ University of Electronic Science and Technology of China (UESTC).
 I will pursue a **professional doctoral degree** at
 **Shanghai Jiao Tong University (SJTU)** under the supervision of
 **Prof. Lin Ma**.
-
-## Education
-
-**University of Electronic Science and Technology of China (UESTC)**  
-B.Eng. in Optoelectronic Information Science and Engineering  
-2023 – 2027 (Expected)
-
-## Research Interests
-
-- Photonic Interconnects
-- Integrated Photonics
-- Optical Fiber and Waveguide Technologies
