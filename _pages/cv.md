@@ -30,7 +30,10 @@ Supervisor: Prof. Lin Ma
 
 ## Honors & Awards
 
-*To be updated.*
+- **Outstanding Student First-Class Scholarship**, UESTC, 2024
+- **Outstanding Student First-Class Scholarship**, UESTC, 2025
+- **Chengdian Friends · Yanbao Scholarship**, 2025  
+  Awarded to only two students in the cohort.
 
 ## Skills
 
@@ -47,4 +50,3 @@ Supervisor: Prof. Lin Ma
 {% else %}
 No publications listed yet.
 {% endif %}
-
