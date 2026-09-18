@@ -7,7 +7,7 @@ author_profile: true
 
 {% include language-toggle.html %}
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 ## Sanguosha
 
@@ -21,7 +21,7 @@ It is still under development.
 
 </div>
 
-<div class="lang-zh" style="display:none;">
+<div class="lang-zh" style="display:none;" markdown="1">
 
 ## 三国杀
 
