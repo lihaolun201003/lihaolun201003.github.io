@@ -5,12 +5,8 @@ permalink: /activities/
 author_profile: true
 ---
 
-## Games
+## 2026
 
-### Persona 5 Royal
+[**Persona 5 Royal**](/activities/p5r/) — 我通关了 P5R！非常好的游戏！
 
-我通关了 P5R！非常好的游戏！
-
-<img src="/images/p5r-achievements.png"
-     alt="Persona 5 Royal achievements"
-     style="width:100%; max-width:850px; border-radius:8px;">
+[**Vibe Coding 三国杀**](/activities/sanguosha/) — 我自己 vibe coding 了一款《三国杀》软件。
