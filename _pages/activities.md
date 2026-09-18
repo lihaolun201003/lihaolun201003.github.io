@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2026
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 [**Persona 5 Royal**](/activities/p5r/) — I finished P5R! Such a great game!
 
@@ -17,7 +17,7 @@ author_profile: true
 
 </div>
 
-<div class="lang-zh" style="display:none;">
+<div class="lang-zh" style="display:none;" markdown="1">
 
 [**Persona 5 Royal**](/activities/p5r/) — 我通关了 P5R！非常好的游戏！
 
