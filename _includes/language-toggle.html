@@ -1,0 +1,28 @@
+<div style="text-align:right; margin-bottom:20px;">
+  <button onclick="setLanguage('zh')" style="background:none;border:none;cursor:pointer;">
+    中文
+  </button>
+  <span> | </span>
+  <button onclick="setLanguage('en')" style="background:none;border:none;cursor:pointer;">
+    English
+  </button>
+</div>
+
+<script>
+function setLanguage(lang) {
+  document.querySelectorAll('.lang-zh').forEach(function(el) {
+    el.style.display = lang === 'zh' ? '' : 'none';
+  });
+
+  document.querySelectorAll('.lang-en').forEach(function(el) {
+    el.style.display = lang === 'en' ? '' : 'none';
+  });
+
+  localStorage.setItem('activity-language', lang);
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  const saved = localStorage.getItem('activity-language') || 'en';
+  setLanguage(saved);
+});
+</script>
