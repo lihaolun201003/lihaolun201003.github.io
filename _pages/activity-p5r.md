@@ -7,13 +7,13 @@ author_profile: true
 
 {% include language-toggle.html %}
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 I finished P5R! Such a great game!
 
 </div>
 
-<div class="lang-zh" style="display:none;">
+<div class="lang-zh" style="display:none;" markdown="1">
 
 我通关了 P5R！非常好的游戏！
 
