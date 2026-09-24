@@ -1,13 +1,8 @@
 ---
-
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
+redirect_from: ["/about/", "/about.html"]
 ---
 
 I am **Haolun Li (李昊伦)**, an undergraduate student majoring in Optoelectronic Information Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
